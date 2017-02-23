@@ -1,8 +1,9 @@
 # ReadTheDocs (RTD) Docker 
 
+[![](https://images.microbadger.com/badges/image/qqbuby/readthedocs.svg)](https://microbadger.com/images/qqbuby/readthedocs "Get your own image badge on microbadger.com")
  [![](https://images.microbadger.com/badges/version/qqbuby/readthedocs:uwsgi.svg)](https://microbadger.com/images/qqbuby/readthedocs:uwsgi "Get your own version badge on microbadger.com")
      
- The docker image that uses to set up the RTD with uWSGI, and responds to the `qqbuby/readthedocs-uwsgi`.
+ The docker image that uses to set up the RTD with uWSGI.
 
  For more information about ***uWSGI***, please refer to [The uWSGI project](https://uwsgi-docs.readthedocs.io/en/latest/).
 
