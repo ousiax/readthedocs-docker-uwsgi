@@ -1,4 +1,5 @@
-FROM qqbuby/readthedocs
+FROM qqbuby/readthedocs:2a54e3a
+
 MAINTAINER qqbuby <qqbuby@gmail.com>
 
 WORKDIR $RTD_REPO_DIR
